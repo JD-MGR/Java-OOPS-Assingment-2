@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WashingMachiene
+comment0.text=\n\ Write\ a\ description\ of\ class\ WashingMachiene\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=product_id\ price\ name\ warranty
+comment1.target=WashingMachiene(int,\ int,\ java.lang.String,\ int)
+comment2.params=extend
+comment2.target=void\ extend_Warranty(int)
+numComments=3

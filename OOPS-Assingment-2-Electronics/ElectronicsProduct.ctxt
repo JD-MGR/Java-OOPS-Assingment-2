@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ElectronicsProduct
+comment0.text=\n\ Write\ a\ description\ of\ class\ ElectronicsProduct\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=product_id\ price\ name
+comment1.target=ElectronicsProduct(int,\ int,\ java.lang.String)
+comment2.params=rate
+comment2.target=void\ discount(int)
+numComments=3
