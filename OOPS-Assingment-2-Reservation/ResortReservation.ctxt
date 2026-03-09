@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ResortReservation
+comment1.params=reservation_id\ customer_name\ date\ room_no
+comment1.target=ResortReservation(int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=changed_room_no
+comment2.target=void\ change_Room(int)
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Reservation
+comment1.params=reservation_id\ customer_name\ date
+comment1.target=Reservation(int,\ java.lang.String,\ java.lang.String)
+numComments=2
