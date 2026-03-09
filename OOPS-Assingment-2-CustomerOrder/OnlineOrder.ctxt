@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OnlineOrder
+comment0.text=\n\ Write\ a\ description\ of\ class\ OnlineOrder\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=order_id\ customer_name\ order_date\ delivery_address\ tracking_number
+comment1.target=OnlineOrder(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ delivery_Time()
+numComments=3
